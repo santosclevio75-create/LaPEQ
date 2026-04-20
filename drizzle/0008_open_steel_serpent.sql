@@ -1,0 +1,1 @@
+ALTER TABLE `bookLoans` ADD `userId` int NOT NULL;
